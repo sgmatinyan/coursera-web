@@ -2,8 +2,13 @@ h1{
 	text-align: center;
 }
 .container{
+<<<<<<< HEAD
   float: left;
   border: 1px solid black;
+=======
+    float: left;
+    border: 1px solid black;
+>>>>>>> 58bbaf5f7f4bc697b5fd5089945a7c5a69b16219
  	margin: 0.5%;
  	padding: 2px;
  	box-sizing: border-box;
