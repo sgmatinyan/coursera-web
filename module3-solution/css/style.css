@@ -3,9 +3,9 @@ h2{
 }
 .chicken-beef-sushi{
   background-color: #f8f9fa;
-  margin: 10px 2% 10px;
+  /*margin: 10px 2% 10px;*/
 }
 
-.chicken-beef-sushi > p{
+.chicken-beef-sushi p{
   padding: 0 2% 5px;
 }
